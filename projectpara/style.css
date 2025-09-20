@@ -1,0 +1,41 @@
+nav{
+    border: 2px solid rgb(15, 43, 204);
+    background-color: rgb(156, 22, 22);
+    width:100%;
+    top:0%;
+    color:rgb(7, 158, 212);
+    position: fixed;
+    width:695px;
+}
+#home{
+    margin:100px;
+    font-size: 20px;
+   
+}
+a{
+    
+    margin: 20px;
+    color:rgb(66, 212, 25);
+     text-decoration: none;
+}
+.main{
+    width: 700px;
+    margin:auto;
+    border: 2px solid rgb(137, 88, 13);
+}
+
+.p{
+    border: 2px solid yellow;
+    width:60px;
+    background-color: rgb(221, 133, 181);
+    position: sticky;
+    /* left: 131px; */
+    top: 8%;
+    margin-left: -10%;
+        /* position: fixed;
+    top: 7%;
+    margin: -9%; */
+}
+.container{
+    background-color: aquamarine;
+}
